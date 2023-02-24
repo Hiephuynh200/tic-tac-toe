@@ -20,6 +20,10 @@ const winConditions = [
     [0, 4, 8],
     [2, 4, 6]
 ];
+
+let result = [
+    "", "", "", "", "", "", "", "
+]
 //là một mảng rỗng cho mỗi cells
 let options = ["", "", "", "", "", "", "", "", ""];
 // người chơi hiện tại là X
